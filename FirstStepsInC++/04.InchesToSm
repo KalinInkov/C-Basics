@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    double number;
+    cin >> number;
+    double inch = 2.54;
+    cout << number * inch;
+
+    
+
+    return 0;
+    
+}
